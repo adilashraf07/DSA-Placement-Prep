@@ -6,6 +6,7 @@ DSA Preparation For Placements (Leetcode)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1929-concatenation-of-array/) | Easy |
 ## Simulation
@@ -13,4 +14,8 @@ DSA Preparation For Placements (Leetcode)
 | ------- | ------- |
 | [1920-build-array-from-permutation](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1929-concatenation-of-array/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1480-running-sum-of-1d-array](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1480-running-sum-of-1d-array/) | Easy |
 <!---LeetCode Topics End-->
