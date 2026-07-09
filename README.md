@@ -23,4 +23,8 @@ DSA Preparation For Placements (Leetcode)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1672-richest-customer-wealth/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3021-alice-and-bob-playing-flower-game](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/3021-alice-and-bob-playing-flower-game/) | Medium |
 <!---LeetCode Topics End-->
