@@ -6,6 +6,7 @@ DSA Preparation For Placements (Leetcode)
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1920-build-array-from-permutation/) | Easy |
