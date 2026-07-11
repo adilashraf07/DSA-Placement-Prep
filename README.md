@@ -37,4 +37,8 @@ DSA Preparation For Placements (Leetcode)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/0062-unique-paths/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0065-valid-number](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/0065-valid-number/) | Hard |
 <!---LeetCode Topics End-->
