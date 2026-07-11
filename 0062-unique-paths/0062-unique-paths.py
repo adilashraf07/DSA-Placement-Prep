@@ -1,13 +1,10 @@
 class Solution:
     def uniquePaths(self, m: int, n: int) -> int:
-        from functools import lru_cache
-        
-        @lru_cache(maxsize=None)
-        def sol(i, j):
-            if i == m-1 and j == n-1:
+        dp = [[0]*n for _ in range(m)]
+        def sol(i,j):  
+            if i==0 or j==0 :
                 return 1
-            if i >= m or j >= n:
-                return 0
-            return sol(i+1, j) + sol(i, j+1)
-        
-        return sol(0, 0)
+            if dp[i][j] == 0:
+                dp[i][j] = sol (i-1,j) + sol(i,j-1)
+            return dp[i][j]
+        return sol(m-1,n-1)
