@@ -27,5 +27,14 @@ DSA Preparation For Placements (Leetcode)
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/0062-unique-paths/) | Medium |
 | [3021-alice-and-bob-playing-flower-game](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/3021-alice-and-bob-playing-flower-game/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/0062-unique-paths/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
