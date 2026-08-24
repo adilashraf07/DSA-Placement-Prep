@@ -7,6 +7,7 @@ DSA Preparation For Placements (Leetcode)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0485-max-consecutive-ones](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/0485-max-consecutive-ones/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -41,4 +42,12 @@ DSA Preparation For Placements (Leetcode)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0065-valid-number](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/0065-valid-number/) | Hard |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1331-rank-transform-of-an-array/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1331-rank-transform-of-an-array](https://github.com/adilashraf07/DSA-Placement-Prep/tree/main/1331-rank-transform-of-an-array/) | Easy |
 <!---LeetCode Topics End-->
